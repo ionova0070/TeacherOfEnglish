@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\TeacherSELF\bin\Debug\Library.dll
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\TeacherSELF\bin\Debug\Library.pdb
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\TeacherSELF\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\TeacherSELF\obj\Debug\Library.dll
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\TeacherSELF\obj\Debug\Library.pdb

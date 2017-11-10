@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\obj\Debug\TestingOfProgram.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\bin\Debug\TestingOfProgram.exe
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\bin\Debug\TestingOfProgram.pdb
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\bin\Debug\Library.dll
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\bin\Debug\Library.pdb
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\obj\Debug\TestingOfProgram.exe
+C:\Users\User\Documents\SharpDevelop Projects\TeacherSELF\Testing\obj\Debug\TestingOfProgram.pdb
